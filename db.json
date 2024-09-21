@@ -2,17 +2,17 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
+      "name": "iPhone",
       "price": 19.99,
-      "imageUrl": "http://example.com/product1.jpg",
-      "available": true,
-      "description": "Description for product 1"
+      "imageUrl": "https://picsum.photos/200/200",
+      "available": false,
+      "description": "quá là ối zồi ôi"
     },
     {
       "id": 2,
       "name": "Product 2",
       "price": 29.99,
-      "imageUrl": "http://example.com/product2.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "available": true,
       "description": "Description for product 2"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Product 3",
       "price": 39.99,
-      "imageUrl": "http://example.com/product3.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "available": false,
       "description": "Description for product 3"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Product 4",
       "price": 49.99,
-      "imageUrl": "http://example.com/product4.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "available": true,
       "description": "Description for product 4"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Product 5",
       "price": 59.99,
-      "imageUrl": "http://example.com/product5.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "available": false,
       "description": "Description for product 5"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "name": "Product 6",
       "price": 69.99,
-      "imageUrl": "http://example.com/product6.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "available": true,
       "description": "Description for product 6"
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "name": "Product 7",
       "price": 79.99,
-      "imageUrl": "http://example.com/product7.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "pictureUrl": "http://example.com/product7.jpg",
       "description": "Description for product 7",
       "available": true
@@ -61,7 +61,7 @@
       "id": 8,
       "name": "Product 8",
       "price": 89.99,
-      "imageUrl": "http://example.com/product8.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "pictureUrl": "http://example.com/product8.jpg",
       "description": "Description for product 8",
       "available": false
@@ -70,7 +70,7 @@
       "id": 9,
       "name": "Product 9",
       "price": 99.99,
-      "imageUrl": "http://example.com/product9.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "available": true,
       "description": "Description for product 9"
     },
@@ -78,10 +78,42 @@
       "id": 10,
       "name": "Product 10",
       "price": 109.99,
-      "imageUrl": "http://example.com/product10.jpg",
+      "imageUrl": "https://picsum.photos/200/200",
       "pictureUrl": "http://example.com/product9.jpg",
       "description": "Description for product 9",
       "available": true
+    },
+    {
+      "name": "san pham 4",
+      "price": "3333",
+      "imageUrl": "https://picsum.photos/200/200",
+      "available": true,
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "id": 11
+    },
+    {
+      "name": "iPhone",
+      "price": "3333",
+      "imageUrl": "https://picsum.photos/200/200",
+      "available": true,
+      "description": "quá là ối zồi ôi",
+      "id": 12
+    },
+    {
+      "name": "san pham 4",
+      "price": "400",
+      "imageUrl": "https://picsum.photos/200/200",
+      "available": true,
+      "description": "quá là ối zồi ôi",
+      "id": 13
+    },
+    {
+      "name": "hoàn",
+      "price": "400",
+      "imageUrl": "https://picsum.photos/200/200",
+      "available": true,
+      "description": "mô tả test",
+      "id": 14
     }
   ]
 }
